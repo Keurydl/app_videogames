@@ -1,0 +1,72 @@
+[
+  {
+    "id": "q1",
+    "text": "¿Cuál fue la primera consola de videojuegos doméstica?",
+    "options": ["NES", "Magnavox Odyssey", "Atari 2600", "ColecoVision"],
+    "correctIndex": 1,
+    "category": "Historia"
+  },
+  {
+    "id": "q2",
+    "text": "¿Qué saga es conocida por el personaje Link?",
+    "options": ["Final Fantasy", "Zelda", "Mario", "Metroid"],
+    "correctIndex": 1,
+    "category": "RPG"
+  },
+  {
+    "id": "q3",
+    "text": "¿Cuál de estos es un shooter en primera persona?",
+    "options": ["DOOM", "Civilization", "FIFA", "Animal Crossing"],
+    "correctIndex": 0,
+    "category": "Shooter"
+  },
+  {
+    "id": "q4",
+    "text": "¿En qué consola debutó Super Mario Bros.?",
+    "options": ["Super Nintendo", "NES", "GameCube", "Wii"],
+    "correctIndex": 1,
+    "category": "Plataformas"
+  },
+  {
+    "id": "q5",
+    "text": "¿Qué juego es famoso por su dificultad y la frase 'You Died'?",
+    "options": ["Dark Souls", "Minecraft", "Pac-Man", "Tetris"],
+    "correctIndex": 0,
+    "category": "RPG"
+  },
+  {
+    "id": "q6",
+    "text": "¿Cuál es el nombre del villano principal en la saga The Legend of Zelda?",
+    "options": ["Ganondorf", "Bowser", "Sephiroth", "Dr. Robotnik"],
+    "correctIndex": 0,
+    "category": "RPG"
+  },
+  {
+    "id": "q7",
+    "text": "¿Qué franquicia popularizó el género battle royale?",
+    "options": ["Fortnite", "Tetris", "Mario Kart", "The Sims"],
+    "correctIndex": 0,
+    "category": "Shooter"
+  },
+  {
+    "id": "q8",
+    "text": "¿Cuál de estos juegos NO es de rol (RPG)?",
+    "options": ["The Witcher 3", "Persona 5", "FIFA 22", "Final Fantasy XV"],
+    "correctIndex": 2,
+    "category": "RPG"
+  },
+  {
+    "id": "q9",
+    "text": "¿Qué juego es conocido por el eslogan 'Gotta catch 'em all'?",
+    "options": ["Digimon", "Pokémon", "Yu-Gi-Oh!", "Monster Hunter"],
+    "correctIndex": 1,
+    "category": "Plataformas"
+  },
+  {
+    "id": "q10",
+    "text": "¿Cuál de estos juegos es exclusivo de PlayStation?",
+    "options": ["God of War", "Halo", "Forza", "Gears of War"],
+    "correctIndex": 0,
+    "category": "Acción"
+  }
+]
