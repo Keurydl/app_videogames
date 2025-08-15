@@ -1,4 +1,4 @@
-# New of Videogames
+# News of Videogames
 
 A new Flutter project.
 
